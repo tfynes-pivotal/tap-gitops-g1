@@ -1,0 +1,6 @@
+tap_install:
+  package_repository:
+    oci_repository: harbor.harborlab.fynesy.net/tap-packages/tap-packages
+  version:
+    package_repo_bundle_tag: 1.6.3
+    package_version: 1.6.3
